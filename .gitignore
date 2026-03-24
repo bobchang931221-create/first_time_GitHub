@@ -2,6 +2,7 @@
 .Rhistory
 .Rapp.history
 
+secret_data.csv
 # Session Data files
 .RData
 .RDataTmp
